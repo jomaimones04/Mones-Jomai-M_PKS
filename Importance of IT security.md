@@ -9,5 +9,7 @@ Hackers breached a bank's system and stole customer data, including account numb
 Why IT Security Matters:
 
 Protects customer data
+
 Prevents financial loss
+
 Maintains customer trust
