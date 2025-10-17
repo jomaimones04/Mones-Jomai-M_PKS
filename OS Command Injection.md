@@ -8,11 +8,11 @@ full system compromise, data theft, service disruption.
 
 Prevention:
 
-Never pass raw user input to shell commands.
+• Never pass raw user input to shell commands.
 
-Use safe APIs (library functions).
+• Use safe APIs (library functions).
 
-Validate/whitelist input and escape/sanitize when necessary.
+• Validate/whitelist input and escape/sanitize when necessary.
 
-Run services with least privilege and use containers/isolated environments.
+• Run services with least privilege and use containers/isolated environments.
 
